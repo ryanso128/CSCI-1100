@@ -1,0 +1,48 @@
+max_n =  3
+Enter a grid index less than or equal to 3 (0 to end): 1
+Enter the maximum step height: 4
+Should the path grid be printed (Y or N): y
+Grid has 4 rows and 6 columns
+global max: (1,2) 23
+===
+steepest path
+(3,3) (3,2) (2,2) (2,3) (1,3) 
+(1,2) 
+global maximum
+...
+most gradual path
+(3,3) (3,2) (2,2) (2,3) (2,4) 
+local maximum
+===
+steepest path
+(3,0) (3,1) (3,2) (2,2) (2,3) 
+(1,3) (1,2) 
+global maximum
+...
+most gradual path
+(3,0) (2,0) (1,0) (0,0) (0,1) 
+(0,2) (0,3) (1,3) (1,2) 
+global maximum
+===
+steepest path
+(3,5) (2,5) (1,5) (1,4) (2,4) 
+local maximum
+...
+most gradual path
+(3,5) (3,4) (3,3) (3,2) (2,2) 
+(2,3) (2,4) 
+local maximum
+===
+steepest path
+(0,2) (0,3) (1,3) (1,2) 
+global maximum
+...
+most gradual path
+(0,2) (0,3) (1,3) (1,2) 
+global maximum
+===
+Path grid
+  1  1  3  3  .  .
+  1  .  5  5  1  1
+  1  .  4  4  3  1
+  2  1  4  3  1  2

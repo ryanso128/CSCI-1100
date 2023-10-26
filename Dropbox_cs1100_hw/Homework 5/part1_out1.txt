@@ -1,0 +1,15 @@
+Enter a grid index less than or equal to 3 (0 to end): 1
+Should the grid be printed (Y or N): y
+Grid 1
+  15  16  18  19  12  11
+  13  19  23  21  16  12
+  12  15  17  19  20  10
+  10  14  16  13   9   6
+Grid has 4 rows and 6 columns
+Neighbors of (3,3): (2,3) (3,2) (3,4)
+Neighbors of (3,0): (2,0) (3,1)
+Neighbors of (3,5): (2,5) (3,4)
+Neighbors of (0,2): (0,1) (1,2) (0,3)
+Valid path
+Downward 7
+Upward 16

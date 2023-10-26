@@ -1,0 +1,7 @@
+Enter a password => AdmIn123%^%*(&
+Length: +3
+Cases: +2
+Digits: +2
+%^&*: +1
+Combined score: 8
+Password is excellent

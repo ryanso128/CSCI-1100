@@ -1,0 +1,34 @@
+Min year => 2000
+2000
+Max year => 2016
+2016
+Weight for IMDB => 0.7
+0.7
+Weight for Twitter => 0.3
+0.3
+
+What genre do you want to see? sci-fi
+sci-fi
+
+Best:
+        Released in 2014, Interstellar has a rating of 8.70
+
+Worst:
+        Released in 2015, Fantastic Four has a rating of 4.72
+
+What genre do you want to see? drame
+drame
+
+No Drame movie found in 2000 through 2016
+
+What genre do you want to see? drama
+drama
+
+Best:
+        Released in 2008, The Dark Knight has a rating of 9.20
+
+Worst:
+        Released in 2012, Spring Breakers has a rating of 4.91
+
+What genre do you want to see? stop
+stop

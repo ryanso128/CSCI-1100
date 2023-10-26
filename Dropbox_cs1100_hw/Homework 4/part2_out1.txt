@@ -1,0 +1,25 @@
+...
+Please enter the index for a week: 1
+Request (daily, pct, quar, high): daily
+Enter the state: AZ
+Average daily positives per 100K population: 6.9
+...
+Please enter the index for a week: 27
+Request (daily, pct, quar, high): pct
+Enter the state: NY
+Average daily positive percent: 48.1
+...
+Please enter the index for a week: 25
+Request (daily, pct, quar, high): qUAr
+Quarantine states:
+AR AZ CO CT DC DE GA IA IL IN
+KS KY LA MA MD MI MN MO NC NE
+NH NJ NV NY OH PA PR RI SC SD
+VA WI 
+...
+Please enter the index for a week: 4
+Request (daily, pct, quar, high): high
+State with highest infection rate is ND
+Rate is 36.6 per 100,000 people
+...
+Please enter the index for a week: -1

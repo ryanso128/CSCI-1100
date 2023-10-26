@@ -1,0 +1,79 @@
+Enter the first file to analyze and compare ==> cat_in_the_hat.txt
+Enter the second file to analyze and compare ==> pulse_morning.txt
+Enter the maximum separation between words in a pair ==> 2
+
+Evaluating document cat_in_the_hat.txt
+1. Average word length: 3.89
+2. Ratio of distinct words to total words: 0.254
+3. Word sets for document cat_in_the_hat.txt:
+   1:   0:
+   2:   4: dr go oh us
+   3:  52: bad bed bet ... wet yes yet
+   4:  75: away back ball ... will wish wood
+   5:  24: asked books bumps ... thump trick white
+   6:  10: always little looked ... thumps tricks upupup
+   7:   4: another mothers nothing strings
+   8:   0:
+   9:   2: funinabox something
+  10:   1: playthings
+4. Word pairs for document cat_in_the_hat.txt
+  942 distinct pairs
+  always cat
+  always hat
+  always pick
+  always playthings
+  another game
+  ...
+  want will
+  wet wet
+  wet wish
+  will will
+  will yes
+5. Ratio of distinct word pairs to total: 0.697
+
+Evaluating document pulse_morning.txt
+1. Average word length: 5.42
+2. Ratio of distinct words to total words: 0.742
+3. Word sets for document pulse_morning.txt:
+   1:   0:
+   2:   1: us
+   3:  12: day gay jew ... say war yet
+   4:  59: ages arab back ... wall will wise
+   5:  56: alarm armed asian ... words world yoked
+   6:  37: across angels apache ... tokens wedded yoruba
+   7:  30: african ashanti chances ... species teacher unlived
+   8:  28: american arriving bordered ... starving straight yearning
+   9:  16: beautiful beginning desperate ... thrusting traveller wrenching
+  10:   4: descendant employment forcefully privileged
+  11:   2: brutishness perpetually
+4. Word pairs for document pulse_morning.txt
+  617 distinct pairs
+  across bloody
+  across brow
+  across face
+  across hide
+  across sear
+  ...
+  unlived wrenching
+  upon waste
+  upon yet
+  wall world
+  war will
+5. Ratio of distinct word pairs to total: 0.939
+
+Summary comparison
+1. pulse_morning.txt on average uses longer words than cat_in_the_hat.txt
+2. Overall word use similarity: 0.064
+3. Word use similarity by length:
+   1: 0.0000
+   2: 0.2500
+   3: 0.1034
+   4: 0.1167
+   5: 0.0256
+   6: 0.0217
+   7: 0.0303
+   8: 0.0000
+   9: 0.0000
+  10: 0.0000
+  11: 0.0000
+4. Word pair similarity: 0.0006

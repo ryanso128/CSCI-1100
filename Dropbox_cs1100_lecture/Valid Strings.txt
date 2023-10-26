@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Sep  8 14:08:20 2022
+
+@author: ryani
+"""
+
+s0
+s2
+s5

@@ -1,0 +1,4 @@
+Enter a password => APwd
+Cases: +2
+Combined score: 2
+Password is poor

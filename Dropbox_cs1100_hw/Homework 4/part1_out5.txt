@@ -1,0 +1,8 @@
+Enter a password => p@Ssw0rD
+Length: +2
+Cases: +2
+Digits: +1
+!@#$: +1
+Common: -3
+Combined score: 3
+Password is fair

@@ -1,0 +1,26 @@
+Dictionary file => a
+Input file => b
+Keyboard file => c
+         barely -> FOUND
+         carats -> FOUND
+        confabs -> FOUND
+     corepulent -> FOUND  1:  corpulent
+       costumye -> FOUND  1:  costumey
+          pamek -> NOT FOUND
+         darjed -> FOUND  3:  darned dared darked
+          doitd -> FOUND  2:  doit doits
+    dovrtailing -> FOUND  1:  dovetailing
+      flavoonls -> FOUND  1:  flavonols
+      outstpend -> FOUND  1:  outspend
+            hut -> FOUND  2:  shut jut
+         pashas -> FOUND
+         poolry -> FOUND  1:  poorly
+    quixmasters -> FOUND  1:  quizmasters
+    relocatiing -> FOUND  1:  relocating
+      sorceresd -> FOUND  1:  sorceress
+    turbulences -> FOUND
+            sut -> FOUND  1:  shut
+       inteters -> FOUND  1:  integers
+    marteatment -> NOT FOUND
+           agew -> FOUND  3:  ages agee anew
+            shu -> FOUND  3:  shut shy shh

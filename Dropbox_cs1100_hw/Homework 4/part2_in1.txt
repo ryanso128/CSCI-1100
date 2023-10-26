@@ -1,0 +1,11 @@
+1
+daily
+AZ
+27
+pct
+NY
+25
+qUAr
+4
+high
+-1

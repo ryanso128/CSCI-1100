@@ -1,0 +1,76 @@
+Enter the first file to analyze and compare ==> ex1.txt
+Enter the second file to analyze and compare ==> ex2.txt
+Enter the maximum separation between words in a pair ==> 2
+
+Evaluating document ex1.txt
+1. Average word length: 6.71
+2. Ratio of distinct words to total words: 1.000
+3. Word sets for document ex1.txt:
+   1:   0:
+   2:   0:
+   3:   0:
+   4:   0:
+   5:   3: house puppy words
+   6:   1: adding
+   7:   1: weather
+   8:   0:
+   9:   1: challenge
+  10:   1: additional
+4. Word pairs for document ex1.txt
+  11 distinct pairs
+  adding additional
+  adding challenge
+  adding house
+  adding words
+  additional house
+  ...
+  challenge house
+  challenge puppy
+  challenge weather
+  house puppy
+  puppy weather
+5. Ratio of distinct word pairs to total: 1.000
+
+Evaluating document ex2.txt
+1. Average word length: 5.63
+2. Ratio of distinct words to total words: 0.767
+3. Word sets for document ex2.txt:
+   1:   0:
+   2:   0:
+   3:   0:
+   4:   3: bike card vest
+   5:   7: horse house pride ... track trash truck
+   6:   7: apples bakery basket ... nation orange safety
+   7:   4: justice scratch weather whistle
+   8:   1: equality
+   9:   1: challenge
+4. Word pairs for document ex2.txt
+  54 distinct pairs
+  apples bakery
+  apples basket
+  apples bike
+  apples truck
+  bakery basket
+  ...
+  puppy weather
+  safety vest
+  scratch trash
+  track truck
+  vest whistle
+5. Ratio of distinct word pairs to total: 0.947
+
+Summary comparison
+1. ex1.txt on average uses longer words than ex2.txt
+2. Overall word use similarity: 0.154
+3. Word use similarity by length:
+   1: 0.0000
+   2: 0.0000
+   3: 0.0000
+   4: 0.0000
+   5: 0.2500
+   6: 0.0000
+   7: 0.2500
+   8: 0.0000
+   9: 1.0000
+  10: 0.0000
+4. Word pair similarity: 0.0833

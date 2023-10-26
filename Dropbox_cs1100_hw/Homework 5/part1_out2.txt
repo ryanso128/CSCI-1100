@@ -1,0 +1,6 @@
+Enter a grid index less than or equal to 3 (0 to end): 2
+Should the grid be printed (Y or N): N
+Grid has 9 rows and 6 columns
+Neighbors of (8,1): (7,1) (8,0) (8,2)
+Neighbors of (1,5): (0,5) (1,4) (2,5)
+Path: invalid step from (2,4) to (3,3)

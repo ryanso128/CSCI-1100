@@ -1,0 +1,6 @@
+Enter a password => lonDOn
+Length: +1
+Cases: +2
+Common: -3
+Combined score: 0
+Password is rejected

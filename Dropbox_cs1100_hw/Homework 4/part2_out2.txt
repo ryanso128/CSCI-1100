@@ -1,0 +1,37 @@
+...
+Please enter the index for a week: 35
+No data for that week
+...
+Please enter the index for a week: 12
+Request (daily, pct, quar, high): dally
+Unrecognized request
+...
+Please enter the index for a week: 12
+Request (daily, pct, quar, high): daily
+Enter the state: NZ
+State NZ not found
+...
+Please enter the index for a week: 12
+Request (daily, pct, quar, high): daily
+Enter the state: SC
+Average daily positives per 100K population: 37.0
+...
+Please enter the index for a week: 3
+Request (daily, pct, quar, high): pCT
+Enter the state: AB
+State AB not found
+...
+Please enter the index for a week: 3
+Request (daily, pct, quar, high): pct
+Enter the state: NV
+Average daily positive percent: 9.8
+...
+Please enter the index for a week: 21
+Request (daily, pct, quar, high): QR
+Unrecognized request
+...
+Please enter the index for a week: 4
+Request (daily, pct, quar, high): hgh
+Unrecognized request
+...
+Please enter the index for a week: -1

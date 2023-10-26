@@ -1,0 +1,7 @@
+Enter a password => ap5a$s7Wd
+Length: +2
+Cases: +1
+Digits: +2
+!@#$: +1
+Combined score: 6
+Password is good

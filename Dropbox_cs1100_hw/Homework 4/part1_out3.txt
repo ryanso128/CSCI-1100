@@ -1,0 +1,7 @@
+Enter a password => jaX1234
+Length: +1
+Cases: +1
+Digits: +2
+License: -2
+Combined score: 2
+Password is poor
